@@ -21,6 +21,7 @@ def get_filters():
 
 
     # get user input for month (all, january, february, ... , june)
+    # added this comment2
 
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
